@@ -18,21 +18,6 @@ Modular, secure, and open-source. Built with 💪 by Tasmia & Team – Hackathon
 - Extracts diagnosis, tests, medications  
 - Structured summary + PDF export
 
-### 🥗 **Cardiac Diet Planner**
-- Personalized diet via patient input  
-- Weekly meal plan view  
-- Printable plan output
-
-### 🗃️ **Patient Records System**
-- Store visit history, prescriptions, reports  
-- Role-based access (patients/doctors)  
-- Secure and searchable
-
-### 📅 **Appointment Booking Portal**
-- Manage doctor availability  
-- Patient appointment scheduling  
-- Email/SMS reminders
-
 ### 📊 **ECG Analyzer**
 - Upload ECG image/waveform  
 - AI detects cardiac abnormalities  
