@@ -23,11 +23,6 @@ Modular, secure, and open-source. Built with 💪 by Tasmia & Team – Hackathon
 - AI detects cardiac abnormalities  
 - Confidence score + visual graphs
 
-### 🚑 **Ambulance Booking System**
-- 1-click emergency booking  
-- Real-time GPS tracking  
-- Hospital auto-notify
-
 ---
 
 ## 🛠️ Tech Stack
