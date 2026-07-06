@@ -2,7 +2,6 @@
 
 **Cardiac Care** is an AI-powered heart health suite with ECG analysis and AI Report Summarizer.  
 Designed for **patients**, **doctors**, and **emergency services**.  
-Modular, secure, and open-source. Built with 💪 by Tasmia & Team – Hackathon Enthusiasts.
 
 ---
 
@@ -123,20 +122,6 @@ Licensed under the **MIT License**
 
 ---
 
-**Built with ❤️ by Tasmia & Team**  
 
-Our Team :) :- 
-
-  1.Tasmia 
-  
-  2.Vivek K K
-  
-  3.Akshaya K
-  
-  4.Vishnupriyan P R
-  
-  5.Mahfooj Ali
-
-  6.Taslim
 
 For health, innovation, and code that saves lives.
