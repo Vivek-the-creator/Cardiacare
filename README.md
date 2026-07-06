@@ -1,17 +1,12 @@
 # 🫀 Cardiac-Care
 
-**Cardiac Care** is an AI-powered heart health suite with ECG analysis, smart chatbot, diet planner, report summarizer, patient records, and ambulance booking.  
+**Cardiac Care** is an AI-powered heart health suite with ECG analysis and AI Report Summarizer.  
 Designed for **patients**, **doctors**, and **emergency services**.  
 Modular, secure, and open-source. Built with 💪 by Tasmia & Team – Hackathon Enthusiasts.
 
 ---
 
 ## 🚀 Features & Modules
-
-### 🧠 **Cardiac Query Assistant**
-- AI chatbot for heart-related questions  
-- Text & voice input  
-- Multilingual support (GPT / ClinicalBERT powered)
 
 ### 📄 **AI Medical Report Summarizer**
 - Accepts PDFs, JPGs, PNGs  
